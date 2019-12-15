@@ -1,6 +1,6 @@
 # SnakeGame
 
-<style="color:red"> Hazırladığımız oyun Snake oyunudur. C++ programlama dili ile yazılmıştır. <font color="red"
+Hazırladığımız oyun Snake oyunudur. C++ programlama dili ile yazılmıştır. 
 **HAZIRLAYANLAR:
 Selin Ülkümen
 Sena Bilgici
