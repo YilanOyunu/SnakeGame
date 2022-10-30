@@ -3,9 +3,9 @@
 Hazırladığımız oyun Snake oyunudur. C++ programlama dili ile yazılmıştır. 
 
 **HAZIRLAYANLAR:
-Selin Ülkümen
+
 Sena Bilgici
-Tuğba Kabak**
+**
 
 OYUN ÇALIŞTIĞINDAKİ EKRAN GÖRÜNTÜSÜ =>
 
